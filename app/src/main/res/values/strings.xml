@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">GoogleMap Notes</string>
+    <string name="title_activity_maps">GoogleMap Notes</string>
+    <string name="enable_gps">Please enable your gps</string>
+    <string name="permission_request">App requires location permission</string>
+    <string name="title_activity_main_maps">Map</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="signup_btn">SignUp</string>
+    <string name="login_btn">Login</string>
+
+    <string name="network_connection_error">Internet connection lost, please retry again</string>
+    <string name="network_default_error">Something wrong happened, please retry again</string>
+    <string name="network_internal_error">Our systems got an error, please retry again</string>
+    <string name="network_server_not_available">Our services are under maintenance, please retry after some time
+    </string>
+    <string name="server_connection_error">Not able to connect, please retry again</string>
+    <string name="network_login_again">Please log in again</string>
+
+    <!--SignUp-->
+    <string name="email_field_hint">Enter your email</string>
+    <string name="password_field_hint">Enter your password</string>
+    <string name="email_field_empty">Email can\'t be empty</string>
+    <string name="password_field_empty">Password can\'t be empty</string>
+    <string name="username_field_hint">Enter your username</string>
+    <string name="username_field_empty">Username can\'t be empty</string>
+    <string name="username_field_invalid">Username must not exceed 10 characters</string>
+    <string name="email_field_invalid">Not a valid email</string>
+    <string name="password_field_small_length">Password less than 6 digits</string>
+    <string name="username_hint">User name</string>
+    <string name="registration_successfull">Registration Successfull !! Please login to continue..</string>
+
+    <!-- Navigation-->
+    <string name="nav_add_note">Add note</string>
+    <string name="nav_map">Map</string>
+    <string name="nav_search_notes">Search notes</string>
+    <string name="nav_signout">Signout</string>
+    <string name="add_note_button_text">ADD NOTE</string>
+    <string name="add_note_hint">please add note here</string>
+    <string name="login_button_text">LOGIN</string>
+    <string name="create_account_text">REGISTER</string>
+    <string name="search_hint">Search here</string>
+    <string name="search_button_text">Search</string>
+
+    <string name="search_users">Users</string>
+    <string name="search_notes">Notes</string>
+    <string-array name="search_options">
+        <item>@string/search_notes</item>
+        <item>@string/search_users</item>
+    </string-array>
+</resources>
